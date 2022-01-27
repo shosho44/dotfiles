@@ -9,7 +9,9 @@ https://code.visualstudio.com/download
 ## その他設定を行うもの
 `touch ~/.gitconfig`  
 .gitconfigに項目設定  
-
+  
+`mkdir ~/.ssh`  
+.sshに各種必要ファイル作成  
 ## その他インストールを行うもの
 - [slack](https://slack.com/intl/ja-jp/downloads/mac?geocode=ja-jp)  
 - [zoom](https://zoom.us/download)  
