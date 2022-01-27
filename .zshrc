@@ -5,8 +5,6 @@ export PATH
 # heroku autocomplete setup
 HEROKU_AC_ZSH_SETUP_PATH=/Users/shotaro/Library/Caches/heroku/autocomplete/zsh_setup && test -f $HEROKU_AC_ZSH_SETUP_PATH && source $HEROKU_AC_ZSH_SETUP_PATH;
 
-. /usr/local/opt/asdf/libexec/asdf.sh
-
 
 alias la="ls -a"
 alias lla="ls -la"

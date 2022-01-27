@@ -11,7 +11,9 @@ https://code.visualstudio.com/download
 .gitconfigに項目設定  
   
 `mkdir ~/.ssh`  
-.sshに各種必要ファイル作成  
+.sshに各種必要ファイル作成 
+
+[githubのドキュメントに沿ってkeyを作成する](https://docs.github.com/ja/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)  
 ## その他インストールを行うもの
 - [slack](https://slack.com/intl/ja-jp/downloads/mac?geocode=ja-jp)  
 - [zoom](https://zoom.us/download)  
