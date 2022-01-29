@@ -14,6 +14,10 @@ https://code.visualstudio.com/download
 .sshに各種必要ファイル作成 
 
 [githubのドキュメントに沿ってkeyを作成する](https://docs.github.com/ja/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)  
+
+[homebrew install](https://brew.sh/index_ja). 
+
+[asdfインストール](http://asdf-vm.com/guide/getting-started.html#_1-install-dependencies). 
 ## その他インストールを行うもの
 - [slack](https://slack.com/intl/ja-jp/downloads/mac?geocode=ja-jp)  
 - [zoom](https://zoom.us/download)  
