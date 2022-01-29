@@ -1,4 +1,4 @@
-PATH=/usr/local/bin:/usr/local/sbin:/bin:/sbin:/usr/bin:/usr/sbin:/Applications/MAMP/bin/php/php7.1.14/bin:/usr
+PATH=$PATH:/usr/local/bin:/usr/local/sbin:/bin:/sbin:/usr/bin:/usr/sbin:/Applications/MAMP/bin/php/php7.1.14/bin:/usr
 
 export PATH
 
