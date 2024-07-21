@@ -6,4 +6,7 @@ PS1="%m %1~ %# "
 # alias setting
 alias la="ls -a"
 alias lla="ls -la"
+alias llh="ls -lh"
 alias df="diff -u -y"
+alias diff="diff -u -y"
+alias df="df"

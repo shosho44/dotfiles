@@ -1,0 +1,17 @@
+[alias]
+    br  = branch
+    bra = branch --all
+    ci  = commit
+    co  = checkout
+    df  = diff --ignore-blank-lines --ignore-all-space
+    dft = difftool
+    dfm = diff master --ignore-blank-lines --ignore-all-space
+    gp  = grep --ignore-case
+    l  = log --oneline -n 20 --graph --format="%x09%C(cyan)%an%Creset%x09%C(yellow)%h%Creset%C(magenta)%x09%d%Creset%s"
+    st  = status
+    vacuum = "!f () { git checkout $1; git branch --merged|egrep -v '\\*|develop|main|master'|xargs git branch -d; };f"
+[color]
+    diff = auto
+    status = auto
+    branch = auto
+    ui = auto
