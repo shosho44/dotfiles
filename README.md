@@ -1,16 +1,17 @@
 # dotfiles
-## 環境構築流れ
+## 新しく環境を作った時の環境構築流れ
 vscodeをインストール  
 https://code.visualstudio.com/download  
 
-`git clone git@github.com:ssshotaro44/dotfiles.git`  
-`sh install.sh`  
+`git clone git@github.com:shosho44/dotfiles.git`  
+各新規環境のrcファイル内でsource .commonrcを記載する
+
 
 ## その他設定を行うもの
 `touch ~/.gitconfig`  
 .gitconfigに項目設定  
-  
-`mkdir ~/.ssh`  
+
+`mkdir ~/.ssh`
 .sshに各種必要ファイル作成 
 
 [githubのドキュメントに沿ってkeyを作成する](https://docs.github.com/ja/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)  
@@ -24,3 +25,6 @@ https://code.visualstudio.com/download
 - [discord](https://discord.com/download)  
 - [chrome](https://www.google.co.jp/chrome/?brand=AGAK&gclid=Cj0KCQiAosmPBhCPARIsAHOen-O6zGtcUK7xxgVDibUdzNGOroewZgNAMotN9AfehVG2JFzZILLjV-8aArkkEALw_wcB&gclsrc=aw.ds)  
 - [docker](https://docs.docker.com/get-docker/)  
+
+## その他
+.commonrcが各環境共通の設定

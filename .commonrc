@@ -1,0 +1,9 @@
+# ターミナル上でユーザ名を表示しない
+PS1="%m %1~ %# "
+# デフォルトは以下
+# PS1="%n@%m %1~ %# "
+
+# alias setting
+alias la="ls -a"
+alias lla="ls -la"
+alias df="diff -u -y"
