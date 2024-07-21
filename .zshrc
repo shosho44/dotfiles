@@ -1,3 +1,4 @@
+# このファイルは個人用M1 Macで必要なため残している。リンカを貼っている為残す必要があるが、おいおいこのファイルを消したい
 PATH=$PATH:/usr/local/bin:/usr/local/sbin:/bin:/sbin:/usr/bin:/usr/sbin:/usr
 
 # asdf setting
